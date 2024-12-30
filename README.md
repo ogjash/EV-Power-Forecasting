@@ -77,7 +77,7 @@ The Seq2Seq model demonstrated the best overall performance, particularly in cap
 
 ## Research Paper
 
-For detailed methodology, analysis, and insights, refer to the [research paper](EV_Power_Forecasting2.pdf).
+For detailed methodology, analysis, and insights, refer to the [research paper][EV Power Forecasting2.pdf](https://github.com/user-attachments/files/18275539/EV.Power.Forecasting2.pdf).
 
 ## Acknowledgments
 
