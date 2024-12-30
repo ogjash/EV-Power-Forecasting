@@ -61,10 +61,7 @@ A model architecture often used in sequence prediction tasks, such as translatio
    pip install -r requirements.txt
    ```
 
-3. **Preprocess the Data**:
-   Run the `wrapper.ipynb` notebook to clean and prepare the dataset.
-
-4. **Train and Evaluate Models**:
+3. **Train and Evaluate Models**:
    Use `main.ipynb` to train the models and evaluate their performance.
 
 ## Results
@@ -86,3 +83,4 @@ For detailed methodology, analysis, and insights, refer to the [research paper](
 
 - Data sourced from the City of Palo Alto.
 - Gratitude to the mentors and collaborators who guided this research.
+- Data is already preprocessed by code in wrapper.ipynb
