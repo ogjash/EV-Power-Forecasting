@@ -51,7 +51,7 @@ A model architecture often used in sequence prediction tasks, such as translatio
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ev-power-forecasting.git
+   git clone https://github.com/ogjash/ev-power-forecasting.git
    cd ev-power-forecasting
    ```
 
